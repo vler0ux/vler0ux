@@ -34,14 +34,14 @@ I'm interested in web development and looking to create user-friendly and impact
 
 ---
 
-## 📌 Featured Projects
-- [🎮 **Webscape Animation Page**](#) *(Completed)*  
+## ![📌 Featured Projects](https://github.com/vler0ux/portfolio.git)
+- 🎮 **Webscape Animation Page** *(Completed)*  
   An animation page created as an add-on for the "Webscape" game, developed in collaboration with other students. It enhances the user experience with interactive features.  
-- [🚍 **Public Transport DataFrame**](#) *(Completed)*  
+- 🚍 **Public Transport DataFrame** *(Completed)*  
   A dataframe representing public transport routes with theoretical and real-time schedules, along with a widget to visualize the data dynamically.  
-- [🔴 **Laser Configuration with Arduino**](#) *(Completed)*  
+- 🔴 **Laser Configuration with Arduino** *(Completed)*  
   A project that involved configuring a laser system using Arduino, focusing on hardware setup and programming for control and precision.  
-- [🎵 **Educational Widget**: Learn Musical Notes](#) *(Coming Soon)*  
+- 🎵 **Educational Widget**: Learn Musical Notes *(Coming Soon)*  
   An interactive tool to teach music notes through scrolling exercises on a staff.  
 
 
