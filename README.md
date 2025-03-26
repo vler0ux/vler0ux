@@ -1,58 +1,77 @@
-# 👋 Hi there, I'm Véronique!
-I'm interested in web development and looking to create user-friendly and impactful digital solutions. Currently, I'm pursuing a Bachelor's degree in Web and Application Design at MyDigitalSchool. I am also working on projects where I use tools like Python and MongoDB in a professional setting.
+# 👋 Hi there, I'm Véronique!  
+Passionate about **web development** and always eager to explore new projects.
 
 ---
 
-## 🚀 What I’m Learning
-- Full-stack development: from front-end interfaces to back-end databases  
-- Creating **cross-platform mobile apps** 
-- Building innovative widgets
-- Designing dataframes and APIs to handle data efficiently and enable seamless integration
+## 🚀 What I Love Working On  
+🔹 **Full-stack development** – from UI/UX design to database management  
+🔹 **Building business applications** to solve real-world problems  
+🔹 **Exploring new technologies** and constantly improving my skill set  
+🔹 **Collaborating** with teams to bring ideas to life  
 
 ---
 
-## 🎯 My Goals
-- Develop and collaborate on projects that merge **creativity** and **technology**  
-- Contribute to **open-source** projects in web and mobile development  
-- Work towards becoming a **Full Stack Developer** with expertise in UX/UI  
+## 🎯 My Goals  
+✅ Work on diverse projects that challenge and inspire me  
+✅ Keep refining my skills in **front-end & back-end** technologies  
+✅ Build solutions that make a difference in people’s daily lives  
+✅ Continue combining **tech and creativity** in my work  
 
 ---
 
-## 💡 Fun Facts
-- I'm a **pianist**, and music deeply inspires my coding!  
-- In my free time, I enjoy **drawing**, blending artistry with logic to fuel my creativity.  
+## 🎵 A Bit More About Me  
+🎹 **Piano lover** – music is my way to unwind and find inspiration  
+📚 **Lifelong learner** – always curious to explore new tools and frameworks  
+🏁 **Problem-solver** – I thrive on creating efficient and elegant solutions  
 
 ---
 
-## 🛠️ Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+## 🛠️ Tech Stack  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  ![Symfony](https://img.shields.io/badge/-Symfony-000?logo=symfony&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
 
----
+### 🖥️ **Langages**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
-## ![📌 Featured Projects](https://github.com/vler0ux/portfolio.git)
-- 🎮 **Webscape Animation Page** *(Completed)*  
-  An animation page created as an add-on for the "Webscape" game, developed in collaboration with other students. It enhances the user experience with interactive features.  
-- 🚍 **Public Transport DataFrame** *(Completed)*  
-  A dataframe representing public transport routes with theoretical and real-time schedules, along with a widget to visualize the data dynamically.  
-- 🔴 **Laser Configuration with Arduino** *(Completed)*  
-  A project that involved configuring a laser system using Arduino, focusing on hardware setup and programming for control and precision.  
-- 🎵 **Educational Widget**: Learn Musical Notes *(Coming Soon)*  
-  An interactive tool to teach music notes through scrolling exercises on a staff.  
+### ⚙️ **Outils**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
+
+
+
 
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/véronique-leroux-9820a21ab)
+## 📊 GitHub Stats  
+![Véronique's GitHub stats](https://github-readme-stats.vercel.app/api?username=vler0ux&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vler0ux&layout=compact&theme=radical)  
 
+---
 
+## 🔥 Featured Projects  
+📌 **[Portfolio](https://github.com/vler0ux/portfolio.git)**  
 
-<!---
-vler0ux/vler0ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏁 **RallyeMate – Business Tool** *(In Progress)*  
+➜ A management tool for rally teams, handling participants, mechanics, and car maintenance.  
+
+🌐 **WordPress Site Development** *(Completed)*  
+➜ Developed and optimized WordPress websites, improving user experience and layout.  
+
+🎮 **Webscape Animation Page** *(Completed)*  
+➜ An animation page created as an add-on for the "Webscape" game, developed in collaboration with other students. It enhances the user experience with interactive features.
+   
+ 🚍 **Public Transport DataFrame** *(Completed)*  
+➜ A dataframe representing public transport routes with theoretical and real-time schedules, along with a widget to visualize the data dynamically.
+  
+🔴 **Laser Configuration with Arduino** *(Completed)*  
+➜ A project that involved configuring a laser system using Arduino, focusing on hardware setup and programming for control and precision.  
+
+🎵 **Educational Widget – Learn Musical Notes** *(Coming Soon)*  
+➜ A fun, interactive tool to teach music notes through scrolling exercises on a staff.  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/véronique-leroux-9820a21ab)  
