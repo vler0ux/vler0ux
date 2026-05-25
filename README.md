@@ -1,12 +1,40 @@
 # 👋 Hi there, I'm Véronique!  
-Passionate about **web development** and always eager to explore new projects.
+AI Engineer · Full-stack Developer
 
+🤖 AI Engineering, What I'm Building
+Currently training as an AI Engineer at OpenClassrooms, building end-to-end ML systems across the full lifecycle, from data pipelines to model deployment and evaluation.
+
+![Jupyter Lab](https://img.shields.io/badge/-JupyterLab-F37626?logo=jupyter&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)
+![ML Flow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![ResNet50](https://img.shields.io/badge/-ResNet50-EE4C2C?logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/-CNN-A020F0?logoColor=white)
+![RAGAS](https://img.shields.io/badge/-RAGAS-1C3C3C?logoColor=white)
 ---
 
+## 🚀 Featured AI Projects  
+🔍 Puls Events RAG  
+Retrieval-Augmented Generation system for cultural events in the Grenoble area.
+Stack: LangChain · Mistral AI · FAISS · RAGAS · FastAPI · MMR retriever
+
+📊 Home Credit MLOps  
+End-to-end MLflow pipeline: XGBoost model registry, experiment tracking, artifact management & evaluation.
+
+🏙️ Seattle Energy & CO₂ Prediction  
+Predictive modeling for 2050 carbon neutrality, feature engineering, GridSearchCV, SHAP explainability.
+
+👗 ModeTrend Clothing Segmentation  
+Semantic segmentation with SegFormer B3 via HuggingFace API, Dice/IoU metrics, validation pipeline.
+
 ## 🚀 What I Love Working On  
-🔹 **Full-stack development** – from UI/UX design to database management  
+🔹 **Building AI systems** – RAG pipelines, LLM orchestration & evaluation  
+🔹 **Full-stack development** – crafting AI-powered interfaces and APIs  
 🔹 **Building business applications** to solve real-world problems  
 🔹 **Exploring new technologies** and constantly improving my skill set  
+🔹 **Exploring new technologies** – LLMs, computer vision, agentic systems  
 🔹 **Collaborating** with teams to bring ideas to life  
 
 ---
@@ -31,16 +59,15 @@ Passionate about **web development** and always eager to explore new projects.
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
 
+### 🤖 **AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)  ![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?logoColor=white)  ![RAGAS](https://img.shields.io/badge/-RAGAS-1C3C3C?logoColor=white)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)  ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)  ![CNN](https://img.shields.io/badge/-CNN-A020F0?logoColor=white)
+
 ### 🖥️ **Langages**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
 
 ### ⚙️ **Outils**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) 
-
-
-
-
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?logo=jupyter&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)
 
 ---
 
