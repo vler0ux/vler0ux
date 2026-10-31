@@ -84,8 +84,9 @@ Semantic segmentation with SegFormer B3 via HuggingFace API, Dice/IoU metrics, v
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?logo=jupyter&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)  ![uv](https://img.shields.io/badge/-uv-DE5FE9?logo=uv&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Stockfish](https://img.shields.io/badge/-Stockfish-4A4A4A?logoColor=white)
 
 ---
-
-
+## 📊 Statistiques  
+![Stats](./profile-summary-card-output/radical/3-stats.svg)
+![Top Languages](./profile-summary-card-output/radical/2-most-commit-language.svg)
 ---
 
 ## 🔥 Featured Projects  
