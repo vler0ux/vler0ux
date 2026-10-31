@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Véronique!  
 AI Engineer · Full-stack Developer
+🌐 [veronique.leroux.im](https://veronique.leroux.im)
 
 🤖 AI Engineering, What I'm Building
 Currently training as an AI Engineer at OpenClassrooms, building end-to-end ML systems across the full lifecycle, from data pipelines to model deployment and evaluation.
@@ -16,12 +17,23 @@ Currently training as an AI Engineer at OpenClassrooms, building end-to-end ML s
 ---
 
 ## 🚀 Featured AI Projects  
+♟️ Chess Openings Learning Agent (FFE use case)  
+LangGraph agent that analyses a chess position and combines Lichess opening theory, Stockfish evaluation, RAG on Milvus and video suggestions to help young players prepare their openings.  
+Stack: LangGraph · Stockfish · Milvus · FastAPI · Docker  
+💻 [GitHub repository](https://github.com/vler0ux/ffe-chess-agent)
+
+🩺 Medical Triage Agent (POC)  
+Proof of concept of a triage assistant: fine-tuning Qwen3-1.7B-Base with SFT + LoRA, then preference alignment with DPO, on medical corpora (MediQA, FrenchMedMCQA, MedQuAD, UltraMedical-Preference). Research prototype, not intended for clinical use.  
+Stack: Transformers · LoRA · SFT · DPO  
+💻 [GitHub repository](https://github.com/vler0ux/p14-agent-de-triage)
+
 🔍 Puls Events RAG  
 Retrieval-Augmented Generation system for cultural events in the Grenoble area.
-Stack: LangChain · Mistral AI · FAISS · RAGAS · FastAPI · MMR retriever
+Stack: LangChain · Mistral AI · FAISS · RAGAS · FastAPI · MMR retriever  
+💻 [GitHub repository](https://github.com/vler0ux/puls-event-rag)
 
 📊 Home Credit MLOps  
-End-to-end MLflow pipeline: XGBoost model registry, experiment tracking, artifact management & evaluation.
+End-to-end MLflow pipeline: XGBoost model registry, experiment tracking, artifact management & evaluation.  
 
 🏙️ Seattle Energy & CO₂ Prediction  
 Predictive modeling for 2050 carbon neutrality, feature engineering, GridSearchCV, SHAP explainability.
@@ -60,25 +72,24 @@ Semantic segmentation with SegFormer B3 via HuggingFace API, Dice/IoU metrics, v
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
 
 ### 🤖 **AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)  ![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?logoColor=white)  ![RAGAS](https://img.shields.io/badge/-RAGAS-1C3C3C?logoColor=white)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)  ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)  ![CNN](https://img.shields.io/badge/-CNN-A020F0?logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  ![XGBoost](https://img.shields.io/badge/-XGBoost-337AB7?logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logoColor=white)  ![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?logoColor=white)  ![RAGAS](https://img.shields.io/badge/-RAGAS-1C3C3C?logoColor=white)  ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)  ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)  ![CNN](https://img.shields.io/badge/-CNN-A020F0?logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white)  ![Mistral AI](https://img.shields.io/badge/-Mistral_AI-FA520F?logo=mistralai&logoColor=white)  ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?logo=huggingface&logoColor=black)  ![LoRA](https://img.shields.io/badge/-LoRA_·_SFT_·_DPO-6C3483?logoColor=white)  ![Milvus](https://img.shields.io/badge/-Milvus-00A1EA?logo=milvus&logoColor=white)  ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-2E7D32?logoColor=white)  ![SegFormer](https://img.shields.io/badge/-SegFormer-76B900?logoColor=white)  ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
 
 ### 🖥️ **Langages**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+### 🗄️ **Bases de données**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logoColor=white)
 
 ### ⚙️ **Outils**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?logo=jupyter&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white)  ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![JupyterLab](https://img.shields.io/badge/-JupyterLab-F37626?logo=jupyter&logoColor=white)  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  ![Conda](https://img.shields.io/badge/-Conda-44A833?logo=anaconda&logoColor=white)  ![Astro](https://img.shields.io/badge/-Astro-BC52EE?logo=astro&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)  ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white)  ![uv](https://img.shields.io/badge/-uv-DE5FE9?logo=uv&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![Stockfish](https://img.shields.io/badge/-Stockfish-4A4A4A?logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-![Véronique's GitHub stats](https://github-readme-stats.vercel.app/api?username=vler0ux&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vler0ux&layout=compact&theme=radical)  
 
 ---
 
 ## 🔥 Featured Projects  
-📌 **[Portfolio](https://github.com/vler0ux/portfolio.git)**  
+📌 **[Portfolio](https://veronique.leroux.im)** · [source code](https://github.com/vler0ux/portfolio.git)
 
 🏁 **RallyeMate – Business Tool** *(In Progress)*  
 ➜ A management tool for rally teams, handling participants, mechanics, and car maintenance.  
@@ -101,4 +112,6 @@ Semantic segmentation with SegFormer B3 via HuggingFace API, Dice/IoU metrics, v
 ---
 
 ## 📫 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?logo=googlechrome&logoColor=white)](https://veronique.leroux.im)
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/vler0ux)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/véronique-leroux-9820a21ab)  
